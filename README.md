@@ -1,7 +1,7 @@
 # Spotlight-Minh-T-m---Portfolio- 
 # Minh Tam - Designing AI Experiences
 
-![Banner](https://i.imgur.com/8Km9tLL.jpg)
+![Banner]([https://i.imgur.com/8Km9tLL.jpg](https://scontent.xx.fbcdn.net/o1/v/t0/f2/m250/upload_img_81732314_06_28_2026_10_45_09_556256_3608608247444388775.jpeg?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=d2ff5c&ccb=9-4&oh=00_Af_-ybA2T1iPrdWiNuqcgbEhNqZi0vvP6TYouf3QUT84Pg&oe=6A68E8C9))
 
 UI/UX Designer in Ho Chi Minh City. I turn complex AI models into interfaces people actually use - fast, clear, human.
 
