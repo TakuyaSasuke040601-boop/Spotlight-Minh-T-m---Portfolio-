@@ -41,6 +41,6 @@ Figma, Framer, Design Systems, User Research, Prototyping
 - Day 2: polish 3-minute demo for judges
 
 ---
-Ho Chi Minh City | your.email@gmail.com | [LinkedIn](#) | [Instagram @dxytam](https://instagram.com/dxytam)
+Ho Chi Minh City | phamminhtam040601@gmail.com | [[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7477523260881068032/)](#) | [Instagram @dxytam](https://instagram.com/dxytam)
 
 8Km9tLL.jpg
